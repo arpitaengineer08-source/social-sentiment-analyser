@@ -104,3 +104,7 @@ Python - scikit-learn - pandas - NumPy - Matplotlib - Streamlit - pytest
 - Live tweet / Reddit ingestion with sentiment-over-time charts
 - Sarcasm detection and multilingual support
 - Docker image and CI workflow
+
+## License
+
+Released under the [MIT License](LICENSE).
